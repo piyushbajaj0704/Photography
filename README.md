@@ -2,35 +2,35 @@
 
 
 ## Tips: 
-Always look for Angles.
-Shoot through something.
-Look for creative composition which is not common for common places. 
-Dont use more than F16 on full frame, F11 on APS-C to avoid diffractions.
-Use correct balance of positive and negative space. Negative space should point to the positive space (eg subject).
-Always check for focus after every shot, exposure can be dealt later but not focus.
-To avoid using ND Filter during day time, use Multiple Exposure Mode to merge 2 same short exposure photos.
-To remove people from crowded location, use long exposure with ND Filter during daytime.
-To focus everything in photo, use focus stacking technique using Photoshop.
-For landscape, use F8-F11 and use focus stacking if possible. 
-Analyze the compose the photos
-Always try to add some foreground ele to landscape or portraits
-Can try to use MUP to reduce shutter shock for teck sharp images
-TEST: Find the sharpest aperture of your lenses mostly in landscapes/far away / near away objects.
-AFS even works when subject is moving parallel and not into/out of camera.  -> NOT SURE 
-TEST: Aim for Single Point focus and try to move the focus point
-Use single point sf and not wide area AF
+- Always look for Angles.
+- Shoot through something.
+- Look for creative composition which is not common for common places. 
+- Dont use more than F16 on full frame, F11 on APS-C to avoid diffractions.
+- Use correct balance of positive and negative space. Negative space should point to the positive space (eg subject).
+- Always check for focus after every shot, exposure can be dealt later but not focus.
+- To avoid using ND Filter during day time, use Multiple Exposure Mode to merge 2 same short exposure photos.
+- To remove people from crowded location, use long exposure with ND Filter during daytime.
+- To focus everything in photo, use focus stacking technique using Photoshop.
+- For landscape, use F8-F11 and use focus stacking if possible. 
+- Analyze the compose the photos
+- Always try to add some foreground ele to landscape or portraits
+- Can try to use MUP to reduce shutter shock for teck sharp images
+- TEST: Find the sharpest aperture of your lenses mostly in landscapes/far away / near away objects.
+- AFS even works when subject is moving parallel and not into/out of camera.  -> NOT SURE 
+- TEST: Aim for Single Point focus and try to move the focus point
+- Use single point sf and not wide area AF
 
 
 ## Long Exposure:
-Use Tripods.
-Turn off any image stabilization when using Tripods (Given its not windy and tripod is not moving)
-Shoot in Manual Focus, do autofocus with highest aperture if needed before switching to Manual as we don't want camera to refocus. Change Aperture back.  
-Aperture: For Landscapes: F8-F11, For starburst type: F14-F16
-SS: If objects are moving fast: 1-3 sec, If slow: 10-30 seconds
-ISO: Depends on the light meter, change. Try for lowest ISO.
-Bulb Mode: If want to shoot for more than 30 seconds
-WideAngle lens: Don't forget to place an object nearby.
-ND Filter: Use it to decrease the SS to better streaks of lights and starburst.
+- Use Tripods.
+- Turn off any image stabilization when using Tripods (Given its not windy and tripod is not moving
+- Shoot in Manual Focus, do autofocus with highest aperture if needed before switching to Manual as we don't want camera to refocus. Change Aperture back.  
+- Aperture: For Landscapes: F8-F11, For starburst type: F14-F16
+- SS: If objects are moving fast: 1-3 sec, If slow: 10-30 seconds
+- ISO: Depends on the light meter, change. Try for lowest ISO.
+- Bulb Mode: If want to shoot for more than 30 seconds
+- WideAngle lens: Don't forget to place an object nearby.
+- ND Filter: Use it to decrease the SS to better streaks of lights and starburst.
 Extras: 
 - Try for architecture with moving clouds, water, cars.
 - Use Water on ground for some creative shots.
@@ -40,10 +40,10 @@ ChecK: Bulb mode on our remote
 
 
 ## Steel Wood:
-Aperture: F5.6-F9
-ISO: 100
-SS: 10-15 sec.
-Lens: Wide Angle Preferred.
+- Aperture: F5.6-F9
+- ISO: 100
+- SS: 10-15 sec.
+- Lens: Wide Angle Preferred.
 
 ## Milky Way:
 - Find an interesting foreground.
@@ -84,18 +84,18 @@ Lens: Wide Angle Preferred.
 - Try not to use it everytime during shooting as it might degrade the quality of photos.
 
 ## Portraits:
-Focus is most important. n.ot always at 1.4 o1.8 cause not all maybe in sharp focud, say both eyes 
-To get the depth in your image use f5.6 f8 f11 or f16.
-For test, if tested on f1.8 to f16, f8
-Add Motion
+- Focus is most important. n.ot always at 1.4 o1.8 cause not all maybe in sharp focud, say both eyes 
+- To get the depth in your image use f5.6 f8 f11 or f16.
+- For test, if tested on f1.8 to f16, f8
+- Add Motion
 
 ## Low Light Potrait:
-Flash might be helpful.
-To get the best shallow depth of field, use the widest aperature.
-If 50mm, set SS t0 1/50
-If 85mm, set SS to 1/100
-Don't set ISO too low for underexpose.
-Reduce noise in PP by using masking.
+- Flash might be helpful.
+- To get the best shallow depth of field, use the widest aperature.
+- If 50mm, set SS t0 1/50
+- If 85mm, set SS to 1/100
+- Don't set ISO too low for underexpose.
+- Reduce noise in PP by using masking.
 
 
 ## Wide Angle Lenses:
@@ -133,22 +133,22 @@ Wear dark clothes.
 Flash Lights.
 
 ## Metering:
-Matrix - Safe, 100% accounts for reflective light in the frame.
-Center Focus - Only accounts for 60-70% lighting of the frame, this might give under or overexpose picture.
-Spot: Only a small portion where you select. Requires more skills for best exposure. 
+- Matrix - Safe, 100% accounts for reflective light in the frame.
+- Center Focus - Only accounts for 60-70% lighting of the frame, this might give under or overexpose picture.
+- Spot: Only a small portion where you select. Requires more skills for best exposure. 
 
 ## Zoom Lenses:
-Make background closer to foreground with increase in focal length, gives a compression effect.
+- Make background closer to foreground with increase in focal length, gives a compression effect.
 
 ## Sharpness:
-Shutter speed depends on lens, faster shutter speed for long lenses.
-General Rule: Min. SS = 1/FL 
+- Shutter speed depends on lens, faster shutter speed for long lenses.
+- General Rule: Min. SS = 1/FL 
 
 
 ## Editing Quick Tips:
 
-Radial Adjustment Brush: For central or radial exposure to isolate the subject, more of like vigneting
-Color Intensify: use HSL Saturation to cherry pick color intensity.
+- Radial Adjustment Brush: For central or radial exposure to isolate the subject, more of like vigneting
+- Color Intensify: use HSL Saturation to cherry pick color intensity.
 
 
 
