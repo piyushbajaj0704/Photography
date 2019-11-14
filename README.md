@@ -31,10 +31,12 @@
 - Bulb Mode: If want to shoot for more than 30 seconds
 - WideAngle lens: Don't forget to place an object nearby.
 - ND Filter: Use it to decrease the SS to better streaks of lights and starburst.
+
 Extras: 
 - Try for architecture with moving clouds, water, cars.
 - Use Water on ground for some creative shots.
 - Use Extra torch colorful lights and be creative.
+
 Check: If decreasing shutter speed, lighting meter change in real time and gives a warning of over or under exposure
 ChecK: Bulb mode on our remote
 
