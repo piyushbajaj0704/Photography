@@ -114,19 +114,19 @@ ChecK: Bulb mode on our remote
     - Place a person at the center but far away and capture the whole background.
 - StreetShots/Architecture/Enclosed Space:
     - For fit it all in. 
-Corners at f/2.8 are obviously softer than the center.
-By f/4, corners are looking better. By f/5.6, corners are looking very good and by f/8, they are great.
-The 16mm focal length remains this lens' weakest setting. I have been especially pleased with the real world image sharpness this lens delivers for landscape photography at f/8 or so.
-Some barrel distortion is present at 11mm. The barrel distortion transitions to nearly no distortion at 14-16mm.
-Tokina 11-16 images show noticeable CA (Chromatic Aberration) in the mid and peripheral image circle (corners) at all focal lengths.
- The quality of the background blur that you can create is not remarkable.
+- Corners at f/2.8 are obviously softer than the center.
+- By f/4, corners are looking better. By f/5.6, corners are looking very good and by f/8, they are great.
+- The 16mm focal length remains this lens' weakest setting. I have been especially pleased with the real world image sharpness this lens delivers for landscape photography at f/8 or so.
+- Some barrel distortion is present at 11mm. The barrel distortion transitions to nearly no distortion at 14-16mm.
+- Tokina 11-16 images show noticeable CA (Chromatic Aberration) in the mid and peripheral image circle (corners) at all focal lengths.
+- The quality of the background blur that you can create is not remarkable.
 
 ## Prime Lenses:
-It is versatile and perfect for travel and portrait pictures as well as general photography.
- Its AF is actually a little faster than the AF-S twins (1.4G and 1.8G).
-The 50mm ƒ/1.8 AF-D provides sharp results when stopped down to ƒ/2.8 or smaller. Between F/3.2 and F/11 this lens is tremendously sharp. 
-When used wide open at ƒ/1.8 or ƒ/2, we did note some generalized softness.
-For the outdoor portraits, f/10 worked great with lots of depth.
+- It is versatile and perfect for travel and portrait pictures as well as general photography.
+- Its AF is actually a little faster than the AF-S twins (1.4G and 1.8G).
+- The 50mm ƒ/1.8 AF-D provides sharp results when stopped down to ƒ/2.8 or smaller. Between F/3.2 and F/11 this lens is tremendously sharp. 
+- When used wide open at ƒ/1.8 or ƒ/2, we did note some generalized softness.
+- For the outdoor portraits, f/10 worked great with lots of depth.
 
 ## Light Painting:
 Low ISO
