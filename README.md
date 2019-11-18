@@ -129,10 +129,10 @@ ChecK: Bulb mode on our remote
 - For the outdoor portraits, f/10 worked great with lots of depth.
 
 ## Light Painting:
-Low ISO
-Sharp Aperature. Test f8
-Wear dark clothes.
-Flash Lights.
+- Low ISO
+- Sharp Aperature. Test f8
+- Wear dark clothes.
+- Flash Lights.
 
 ## Metering:
 - Matrix - Safe, 100% accounts for reflective light in the frame.
